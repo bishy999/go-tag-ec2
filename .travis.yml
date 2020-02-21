@@ -9,7 +9,7 @@ go:
 
 # Only clone the most recent commit.
 git:
-	depth: 1
+  depth: 1
 
 before_script:
   - go install github.com/golangci/golangci-lint/cmd/golangci-lint
