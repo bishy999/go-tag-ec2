@@ -1,6 +1,3 @@
-/*
-Package tag provide a client to the EC2 API.
-*/
 package tag
 
 import (
