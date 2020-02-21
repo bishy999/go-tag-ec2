@@ -68,9 +68,9 @@ go test -bench=BenchmarkConnectionInfo_CreateHost ./pkg/tag/
 
 # Run specific benchmark
 # cpu
-go test -bench=BenchmarkTagData_CreateTags ./pkg/tag/ -cpuprofile cpuprof_createtags.out
+go test -bench=BenchmarkUserInfo_CreateTags ./pkg/tag/ -cpuprofile cpuprof_createtags.out
 # memory
-go test -bench=BenchmarkTagData_CreateTags ./pkg/tag/ -memprofile memprof_createtags.out
+go test -bench=BenchmarkUserInfo_CreateTags ./pkg/tag/ -memprofile memprof_createtags.out
 
 # Analyze results on the cli
 go tool pprof api.test cpuprof_createtags.out
@@ -83,9 +83,9 @@ go tool pprof --alloc_space -http=: memprof_createtags.out
 ```
 # Run go static analysis
 ```go 
-go get -u honnef.co/go/tools/cmd/staticcheck
+go install github.com/golangci/golangci-lint/cmd/golangci-lint
 
-staticcheck ./...
+golangci-lint run
 ```
 
 

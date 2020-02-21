@@ -40,7 +40,7 @@ func TestValidInput(t *testing.T) {
 
 }
 
-func ExampleTagData_ContainsValidTags() {
+func ExampleUserInfo_ContainsValidTags() {
 
 	input := tag.UserInfo{
 		Tags: map[string]string{"Name": "test01", "Region": "eu-west-1", "Environment": "EDDIE_DEV", "Team": "System_Team", "Owner": "jimmy"},

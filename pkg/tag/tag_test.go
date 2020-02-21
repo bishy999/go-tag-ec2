@@ -91,7 +91,7 @@ func TestGetInstances(t *testing.T) {
 
 }
 
-func ExampleTagData_GetInstance() {
+func ExampleUserInfo_GetInstance() {
 
 	mockSvc := &mockEC2Client{}
 
@@ -150,7 +150,7 @@ func TestCreateTags(t *testing.T) {
 
 }
 
-func ExampleTagData_CreateTags() {
+func ExampleUserInfo_CreateTags() {
 
 	mockSvc := &mockEC2Client{}
 
@@ -171,7 +171,7 @@ func ExampleTagData_CreateTags() {
 
 }
 
-func BenchmarkTagData_CreateTags(b *testing.B) {
+func BenchmarkUserInfo_CreateTags(b *testing.B) {
 
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
