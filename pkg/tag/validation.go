@@ -13,7 +13,8 @@ const (
 	# Enter the required tagging information                                                                                                             #
 	#                                                                                                                                                    #
 	# Usage:                                                                                                                                             #
-	#     ec2-tags-client.go -environment=EDDIE_DEV -name=jbtest1928.aws.xcl.ie -team=System_Team -owner=jbishop -region=eu-west-1 -costCentre=00000     #
+	#     ec2-tags-client -environment=DEV -name=test1928.aws.xcl.ie -team=ATeam -owner=jimmy -region=eu-west-1 -costCentre=00000                        #
+    #                                                                                                                                                    #
 	#                                                                                                                                                    #
 	######################################################################################################################################################
 	`
