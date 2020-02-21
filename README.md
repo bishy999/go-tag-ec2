@@ -12,8 +12,8 @@ You can view the client API docs by serving the docs from this repository : [htt
 
 
 ## Status
-[![Build Status](https://travis-ci.com/bishy999/go-tag-ec2.svg?branch=master)](https://travis-ci.com/bishy999/go-tag-ec2.svg?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/bishy999/go-tag-ec2)](https://goreportcard.com/badge/github.com/bishy999/go-tag-ec2)
+[![Build Status](https://travis-ci.com/bishy999/go-tag-ec2.svg?branch=master)](https://travis-ci.com/bishy999/go-tag-ec2)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bishy999/go-tag-ec2)](https://goreportcard.com/report/github.com/bishy999/go-tag-ec2)
 
 
 
