@@ -16,9 +16,10 @@ You can view the client API docs by serving the docs from this repository : [htt
 [![Go Report Card](https://goreportcard.com/badge/github.com/bishy999/go-tag-ec2)](https://goreportcard.com/report/github.com/bishy999/go-tag-ec2)
 [![GoDoc](https://godoc.org/github.com/bishy999/go-tag-ec2/pkg/tag?status.svg)](https://godoc.org/github.com/bishy999/go-tag-ec2/pkg/tag)
 [![GolangCI](https://golangci.com/badges/github.com/bishy999/go-tag-ec2.svg)](https://golangci.com)
-![GitHub repo size](https://img.shields.io/github/repo-size/bishy999/go-tag-ec2)
-[![GitHub tag](https://img.shields.io/github/tag/bishy999/go-tag-ec2.svg)](https://github.com/bishy999/go-tag-ec2/releases/latest)
-[![GitHub Releases](https://img.shields.io/github/downloads/bishy999/go-tag-ec2/total)](https://github.com/bishy999/go-tag-ec2/releases)
+![GitHub Repo size](https://img.shields.io/github/repo-size/bishy999/go-tag-ec2)
+[![GitHub Tag](https://img.shields.io/github/tag/bishy999/go-tag-ec2.svg)](https://github.com/bishy999/go-tag-ec2/releases/latest)
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/bishy999/go-tag-ec2)](https://github.com/bishy999/go-tag-ec2)
+[![GitHub Contributors](https://img.shields.io/github/contributors/bishy999/go-tag-ec2)](https://github.com/bishy999/go-tag-ec2)
 
 
 
