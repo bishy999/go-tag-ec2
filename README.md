@@ -15,7 +15,6 @@ You can view the client API docs by serving the docs from this repository : [htt
 [![Build Status](https://travis-ci.com/bishy999/go-tag-ec2.svg?branch=master)](https://travis-ci.com/bishy999/go-tag-ec2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bishy999/go-tag-ec2)](https://goreportcard.com/report/github.com/bishy999/go-tag-ec2)
 [![GoDoc](https://godoc.org/github.com/bishy999/go-tag-ec2/pkg/tag?status.svg)](https://godoc.org/github.com/bishy999/go-tag-ec2/pkg/tag)
-[![GolangCI](https://golangci.com/badges/github.com/bishy999/go-tag-ec2.svg)](https://golangci.com/r/github.com/bishy999/go-foreman)
 ![GitHub Repo size](https://img.shields.io/github/repo-size/bishy999/go-tag-ec2)
 [![GitHub Tag](https://img.shields.io/github/tag/bishy999/go-tag-ec2.svg)](https://github.com/bishy999/go-tag-ec2/releases/latest)
 [![GitHub Activity](https://img.shields.io/github/commit-activity/m/bishy999/go-tag-ec2)](https://github.com/bishy999/go-tag-ec2)
